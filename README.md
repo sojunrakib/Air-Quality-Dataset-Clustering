@@ -68,8 +68,8 @@ These are relevant to public health, environmental policy, and smart city planni
 
 ---
 
-## 📎 [View Notebook in Google Colab](YOUR_COLAB_LINK_HERE)
-## 📎 [View Project Repository](YOUR_GITHUB_LINK_HERE)
+## 📎 [View Notebook in Google Colab](https://colab.research.google.com/drive/17_I4Hk_UxWzRYKTMubTFDqOuuEnY9w6J?usp=sharing)
+## 📎 [View Project Repository](https://github.com/sojunrakib/Air-Quality-Dataset-Clustering/blob/main/Air_Quality_.ipynb)
 
 ---
 
